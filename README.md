@@ -1,2 +1,4 @@
-# javascriptClock
-analog clock using javascript, html, &amp; css
+# [JS Analog Clock]
+Analog clock using javascript, html, &amp; css.
+
+From [Wes Bos's](https://wesbos.com/) [JavaScript30](https://javascript30.com/) course.
